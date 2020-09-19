@@ -1,0 +1,13 @@
+{
+  "name": "tailwind-module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "postcss": "^8.0.5",
+    "postcss-cli": "^7.1.2",
+    "postcss-import": "^12.0.1",
+    "tailwindcss": "^1.8.10"
+  }
+}
